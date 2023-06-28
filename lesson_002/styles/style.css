@@ -1,0 +1,23 @@
+span {
+    font-size: 25px;
+}
+#second-span {
+    font-size: 30px;
+}
+#third-span {
+    color: blue;
+}
+#fourth-span {
+    background-color: cadetblue;
+}
+
+.red{
+    color: red;
+}
+.green{
+    color:green;
+}
+#green2{
+    color:green;
+    font-size: 33px;
+}

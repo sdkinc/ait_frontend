@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.headline{
+    font-size: 200%;
+    font-style: italic;
+}
+.subheader{
+    font-style:oblique;
+}
+#panda{
+    width: 300px;
+    height: 300px;
+    border: 1px;
+    border-radius: 4px;
+    
+
+}
+.bald-idea{
+    font-size: 90%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.main-text{
+    color:rgb(253, 253, 253)
+}
+#endtext{
+    color:rgb(204, 247, 87)
+}
+footer{
+    background-color: antiquewhite;
+    font-size: larger;
+    font-weight: bold;
+}
